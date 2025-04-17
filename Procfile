@@ -1,0 +1,1 @@
+worker: python Narutogamebot_stats_persistent.py
