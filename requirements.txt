@@ -1,2 +1,4 @@
 python-telegram-bot
 python-telegram-bot[jobqueue]
+requests
+beautifulsoup4
