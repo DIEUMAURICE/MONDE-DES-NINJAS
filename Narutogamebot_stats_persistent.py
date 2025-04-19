@@ -1,3 +1,10 @@
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route('/')
+def home():
+    return "Bot stat service is running!"
 import json
 import os
 import random
